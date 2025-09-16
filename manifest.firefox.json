@@ -1,0 +1,13 @@
+{
+  "background": {
+    "scripts": ["index.js"]
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "jsonic-firefox@jsonic.ir"
+    }
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'"
+  }
+}

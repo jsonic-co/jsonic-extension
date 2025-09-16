@@ -1,6 +1,8 @@
 {
-  "name": "jsonic-extension",
+  "name": "@jsonic-co/jsonic-extension",
   "version": "0.37.0",
+  "private": false,
+  "author": "The Jsonic Team <support@jsonic.ir>",
   "description": "Provides more features to the Jsonic webapp (https://jsonic.ir/)",
   "scripts": {
     "clean": "rimraf dist .parcel-cache",
